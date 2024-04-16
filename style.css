@@ -3,6 +3,11 @@
     src: url(fonts/Daydream.ttf)
 }
 
+@font-face {
+    font-family: "PixelSmall";
+    src: url(fonts/rainyhearts.ttf)
+}
+
 body {
   background-color: #2c2c2e;
 }
@@ -20,7 +25,7 @@ body {
 }
 
 .Description {
-    font-family: "Pixel";
+    font-family: "PixelSmall";
   margin-top: 9px;
   margin-bottom: 18px;
   color: #bfbfbf;
@@ -45,7 +50,7 @@ body {
 }
 
 .SubHeader {
-    font-family: "Pixel";
+    font-family: "PixelSmall";
   font-size: 17px;
   color: #bfbfbf;
 }
