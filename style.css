@@ -1,8 +1,14 @@
+@font-face {
+    font-family: "Pixel";
+    src: url(fonts/Daydream.ttf)
+}
+
 body {
   background-color: #2c2c2e;
 }
 
 .Header {
+    font-family: "Pixel";
   text-align: center;
   background-color: #5b5b61;
   font-size: 30px;
@@ -14,6 +20,7 @@ body {
 }
 
 .Description {
+    font-family: "Pixel";
   margin-top: 9px;
   margin-bottom: 18px;
   color: #bfbfbf;
@@ -26,6 +33,7 @@ body {
 }
 
 .TopHeader {
+    font-family: "Pixel";
   text-align: center;
   background-color: #757582;
   font-size: 50px;
@@ -37,6 +45,7 @@ body {
 }
 
 .SubHeader {
+    font-family: "Pixel";
   font-size: 17px;
   color: #bfbfbf;
 }
